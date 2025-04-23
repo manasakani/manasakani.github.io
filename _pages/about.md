@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[Work in progress, just started this new website!]
-
 Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology, Computational Nanoelectronics group, advised by Prof. Mathieu Luisier. My research interests lie at at the intersection of three fields:
 
 *  ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
@@ -17,7 +15,9 @@ Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginerin
 
 *  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-If you've come across my work and have any questions, reach out and I'd love to discuss!
+If you've come across my work and have any questions or ideas for future work, let's discuss!
+
+[This website was just started, and a work in progress!]
 
 
 <!-- Over the past few years, I've pursed some general topics that united these areas. More often than not, it takes far more time to develop the methods and code than to explore the intended applications. However, since I started out as a researcher in the field of semiconductor device physics, I still like to think of my overarching projects in terms of the kinds of devices I wanted to model:
