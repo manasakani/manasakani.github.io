@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-About
+[Work in progress]
+
+I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology (Computational Nanoelectronics group), supervised by Prof. Mathieu Luisier. 
+
+I'm generally interested in three closly related areas which I tie together in my research:
+
+1. *Ab initio* and atomistic semiconductor device modeling: developing custom simulation tools to capture the operating physics of emerging semiconductor devices
+
+2. Geometric deep learning for materials modeling: using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales unreachable by Density Functional Theory
+
+3. High performance scientific computing: optimizing custom semiconductor simulations and machine learning models on GPUs and supercomputers to tackle large-scale problems
 
 A data-driven personal website
 ======
