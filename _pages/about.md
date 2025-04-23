@@ -26,5 +26,7 @@ Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginerin
 **Strain-engineered 2D-material transistors** - I started out in the field of semiconductor device physics by using DFT and Quantum Transport methods to investigate the influence of lattice strain to improve the drive currents [APL] and reduce tunneling leakage [EDL] in 2D-material transistors. -->
 
 <!-- A data-driven personal website
+
+Researcher in Semiconductor Devices and Computational Materials Science. 
 ====== -->
 
