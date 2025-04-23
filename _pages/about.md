@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology, Computational Nanoelectronics group, advised by Prof. Mathieu Luisier. My research interests lie at at the intersection of three fields:
+Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research interests lie at at the intersection of three fields:
 
 *  ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
 
@@ -15,7 +15,7 @@ Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginerin
 
 *  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-If you've come across my work and have any questions or ideas for future work, let's discuss!
+If you've come across my work and have questions or ideas for future work together, let's discuss!
 
 [This website was just started, and a work in progress!]
 
