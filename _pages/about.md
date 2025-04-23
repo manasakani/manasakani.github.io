@@ -7,53 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-[Work in progress]
+[Work in progress, just started this new website!]
 
-I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology (Computational Nanoelectronics group), supervised by Prof. Mathieu Luisier. 
+Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology (Computational Nanoelectronics group), advised by Prof. Mathieu Luisier. My research ties together three closely related areas:
 
-I'm generally interested in three closly related areas which I tie together in my research:
+1. ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
 
-1. *Ab initio* and atomistic semiconductor device modeling: developing custom simulation tools to capture the operating physics of emerging semiconductor devices
+2. **Geometric deep learning for materials modeling** - using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales unreachable by Density Functional Theory (DFT)
 
-2. Geometric deep learning for materials modeling: using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales unreachable by Density Functional Theory
+3. **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-3. High performance scientific computing: optimizing custom semiconductor simulations and machine learning models on GPUs and supercomputers to tackle large-scale problems
+<!-- Over the past few years, I've pursed some general topics that united these areas. More often than not, it takes far more time to develop the methods and code than to explore the intended applications. However, since I started out as a researcher in the field of semiconductor device physics, I still like to think of my overarching projects in terms of the kinds of devices I wanted to model:
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Phase Change Memory (PCM)** - PCM cells exhibit gradual structural phase transitions which translates into a tunable resistance effect. The chemical composition space of these materials is large, but their specific composition and stoichiometry directly determine acheivable resistance contrast and stability. This makes a computational investigation of this space an attractive prospect. Simulating this involves being able to recompute the electronic structure during structural phase changes, which is computationally unfeasible with conventional methods. This is what I hope to do through the use of equivariant Graph Neural Networks [arxiv] combined with full-batch distributed training to handle the large graphs encountered [submitted_SC25].
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Resistive Random Access Memory (RRAM) Arrays** - RRAM is an emerging high-density non-volatile memory technology which operates on the principle of reversible dielectric breakdown. After first investigating current flow through these devices on an *ab intitio* level of theory which combined DFT and Quantum Transport [ACSNano2023], I developed a kinetic Monte Carlo application to capture the relevant physics at much larger scales [SC24], and explored potential failure mechanism at the atomistic scale which occur when devices are integrated into memory arrays [DRC2025]. Recently, I've been working with experimental collaborators at IBM Zurich to investigate the detailed mechanisms behind the soft dielectric breakdown effect, and how we can reduce the voltages required to acheive it [submitted_ACSNano2025]
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Strain-engineered 2D-material transistors** - I started out in the field of semiconductor device physics by using DFT and Quantum Transport methods to investigate the influence of lattice strain to improve the drive currents [APL] and reduce tunneling leakage [EDL] in 2D-material transistors. -->
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- A data-driven personal website
+====== -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
