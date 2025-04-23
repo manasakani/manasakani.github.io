@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research interests lie at at the intersection of three fields:
+Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research interests lie at at the intersection of:
 
 *  ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
 
