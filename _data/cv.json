@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Manasa Kaniselvan",
+    "email": "mkaniselvan[@]ethz.ch",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at ETH Zurich. PhD Candidate, researcher in Semiconductor Device and Computational Materials Science. Currently Research Scientist Intern at Meta Foundational AI Research (FAIR) - Chemistry.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "San Francisco",
       "countryCode": "US",
       "region": ""
     },
