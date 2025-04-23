@@ -9,15 +9,16 @@ redirect_from:
 
 [Work in progress, just started this new website!]
 
-Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology, Computational Nanoelectronics group, advised by Prof. Mathieu Luisier. My research interests lie in three related areas:
+Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginering and Information Technology, Computational Nanoelectronics group, advised by Prof. Mathieu Luisier. My research interests lie at at the intersection of three fields:
 
-1. ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
+*  ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
 
-2. **Geometric deep learning for materials modeling** - using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
+*  **Geometric deep learning for materials modeling** - using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
-3. **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
+*  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-I'm planning to use this website to collect all of my information and links in one place. 
+If you've come across my work and have any questions, reach out and I'd love to discuss!
+
 
 <!-- Over the past few years, I've pursed some general topics that united these areas. More often than not, it takes far more time to develop the methods and code than to explore the intended applications. However, since I started out as a researcher in the field of semiconductor device physics, I still like to think of my overarching projects in terms of the kinds of devices I wanted to model:
 
