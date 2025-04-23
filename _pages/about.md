@@ -13,7 +13,7 @@ Hi! I'm a PhD Candidate at ETH Zurich, in the Department of Electrical Enginerin
 
 1. ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
 
-2. **Geometric deep learning for materials modeling** - using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales unreachable by Density Functional Theory (DFT)
+2. **Geometric deep learning for materials modeling** - using symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
 3. **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
