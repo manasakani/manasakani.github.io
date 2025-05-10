@@ -13,11 +13,11 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 *  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
-*  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
+*  **High performance scientific computing (HPC)** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
 During my time at ETH so far, I've led projects across these different domains, published in venues including _ACS Nano_, the _International Conference for High Performance Computing, Networking, Storage, and Analysis (’SC)_, the _International Conference on Machine Learning (ICML)_, and _Nature Materials_. I've also supervised three Master thesis students (two won the ETH Medals), and done PhD research internships at the Samsung Semiconductor Device Lab (San Jose) and Meta AI's FAIR Chemistry team (San Francisco) in the areas of semiconductor simulation development and AI/ML for materials. 
 
-Going forward, I'm excited about driving methods- and application-based research to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. Doing this will unlock predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, allowing to investigate realistic effects like structural disorder, atomic motion, and other complex phenomena which can only be captured at scale. 
+Going forward, I'm excited about driving methods- and application-based research in HPC/ML to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. Doing this will unlock predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, allowing to investigate realistic effects like structural disorder, atomic motion, and other complex phenomena which can only be captured at scale. 
 
 I also really enjoy collaborating with researchers and industry labs from different fields, and generally thinking about what's possible with enough combined expertise. So if you have questions or ideas for cool projects together, **let's discuss**!
 
