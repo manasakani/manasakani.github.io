@@ -15,7 +15,7 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 *  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-If you've come across my work and have questions or ideas for future work together, let's discuss!
+I'm excited about combining core principles from these domains to drive both methods- and application-based research, and have been doing so both at ETH and during PhD internships at the Samsung Semiconductor Device Lab and Meta FAIR (Fundamental AI Research). I also enjoy collaborating with researchers and industry labs from different feilds - if you have questions or ideas for future work together, let's discuss!
 
 [This website was just started, and a work in progress!]
 
