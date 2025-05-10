@@ -15,7 +15,7 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 *  **High performance scientific computing** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-I'm excited about driving methods- and application-based research towards the goal of uniting state-of-the-art quantum-level materials simulations with advanced device transport approaches. This would unlock predictive simulations at scales that can be fabricated and measured in the lab, and allow us probe realistic effects like structural disorder, atomic movements, and non-idealities which can only be captured at scale. This is what I have been taking the first steps towards while at ETH, and in part during my PhD internships at the Samsung Semiconductor Device Lab and Meta FAIR (Fundamental AI Research). 
+I'm excited about driving methods- and application-based research to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. This would unlock predictive atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, and allow us to investigate realistic effects like structural disorder, atomic movements, and non-idealities which can only be captured at scale. This is what I have been taking the first steps towards while at ETH, and in part during my PhD internships at the Samsung Semiconductor Device Lab and Meta FAIR (Fundamental AI Research). 
 
 I also enjoy collaborating with researchers and industry labs from different fields - if you have questions or ideas for future work together, let's discuss!
 
