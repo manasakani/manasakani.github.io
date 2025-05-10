@@ -19,7 +19,7 @@ During my time at ETH so far, I've led projects across these different domains, 
 
 Going forward, I'm excited about driving methods- and application-based research to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. Doing this will unlock predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, allowing to investigate realistic effects like structural disorder, atomic motion, and other complex phenomena which can only be captured at scale. 
 
-I really enjoy collaborating with researchers and industry labs from different fields, and generally seeing what's possible with combined expertise. So if you have questions or ideas for cool projects together, let's discuss!
+I really enjoy collaborating with researchers and industry labs from different fields, and generally thinking about what's possible with enough combined expertise. So if you have questions or ideas for cool projects together, let's discuss!
 
 [Note: I just started this website, and it's a work in progress!]
 
