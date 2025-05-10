@@ -17,11 +17,13 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 During my time at ETH so far, I've led projects across these different domains, published in venues such as _ACS Nano_, the _International Conference for High Performance Computing, Networking, Storage, and Analysis (’SC)_, and _International Conference on Machine Learning (ICML)_, and _Nature Materials_. I've also proposed and supervised three Master thesis students (two won the ETH Medals), and done PhD internships at the Samsung Semiconductor Device Lab (San Jose) and Meta AI (San Francisco) in the areas of semiconductor device physics and AI/ML for materials. 
 
-Going forward, I'm excited about driving methods- and application-based research to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. This would unlock predictive atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, and allow us to investigate realistic effects like structural disorder, atomic movements, and other complex phenomena which can only be captured at scale. 
+Going forward, I'm excited about driving methods- and application-based research to unite state-of-the-art quantum-level materials simulations with advanced device transport approaches. Doing this will unlock predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab, allowing to investigate realistic effects like structural disorder, atomic motion, and other complex phenomena which can only be captured at scale. 
 
-I really enjoy collaborating with researchers and industry labs from different fields. If you have questions or ideas for cool projects together, let's discuss!
+I really enjoy collaborating with researchers and industry labs from different fields, and generally seeing what's possible with combined expertise. So if you have questions or ideas for cool projects together, let's discuss!
 
 [Note: I just started this website, and it's a work in progress!]
+
+<!-- to bring what's possible at the material-level up the  -->
 
 
 <!-- Over the past few years, I've pursed some general topics that united these areas. More often than not, it takes far more time to develop the methods and code than to explore the intended applications. However, since I started out as a researcher in the field of semiconductor device physics, I still like to think of my overarching projects in terms of the kinds of devices I wanted to model:
