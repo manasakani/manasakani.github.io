@@ -1,7 +1,7 @@
 ---
 title: "Mechanisms of resistive switching in two-dimensional monolayer and multilayer materials"
 collection: publications
-# category: manuscripts
+category: manuscripts
 permalink: /publication/2025_03-24-natmaterials
 excerpt: "<br/><img src='/images/2D.png' style='width: 60%; height: auto;'>>"
 date: 2025-03-24
