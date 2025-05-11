@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "ETH Zurich, Department of Electrical Engineering and Information Technology"
-# date: 2015-01-01
+date: 2025-01-01
 location: "City, Country"
 ---
 
