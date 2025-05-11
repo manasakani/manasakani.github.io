@@ -9,9 +9,9 @@ redirect_from:
 
 Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research interests lie at at the intersection of:
 
-*  ***Ab initio* and atomistic semiconductor device modeling** - developing custom simulation tools to capture the operating physics of emerging semiconductor devices
+*  ***Ab initio* and atomistic semiconductor device modeling** - developing and using custom simulation tools to capture the operating physics of emerging semiconductor devices, and working with experimental collaborators to iterate between simulated trends and device measurements
 
-*  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
+*  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn the electronic structure of the underlying semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
 *  **High performance scientific computing (HPC)** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
@@ -21,9 +21,9 @@ During my time at ETH so far, I've led projects across these different domains, 
 
 Going forward, I'm interested in driving methods- and application-based research in HPC/ML to unite state-of-the-art quantum mechanical materials simulations with advanced device transport approaches. This can enable predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab. It would also unlock computational investigations of effects like structural or compositional disorder, atomic motion, and other complex transport phenomena which can only be captured at scale.  
 
-I'm also excited about collaborating with researchers and industry labs from different fields, having technical discussions about project ideas, and generally thinking about what we can accomplish and the impact we can have with enough combined expertise. So if you have questions or ideas for cool projects together, **let's discuss**!
+I'm excited about collaborating with researchers and industry labs from different fields, having technical discussions about project ideas, and generally thinking about what we can accomplish and the impact we can have with enough combined expertise. So if you have questions or ideas for cool projects together, **let's discuss**!
 
-[Note: I just started this website, and it's a work in progress!]
+[Note: I just started this website, it's a work in progress!]
 
 <!-- to bring what's possible at the material-level up the  -->
 
