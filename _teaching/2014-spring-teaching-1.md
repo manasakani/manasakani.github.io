@@ -1,5 +1,5 @@
 ---
-title: "Linear Circuits (NE140)"
+title: "Teaching Assistant positions at the University of Waterloo"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,15 +8,19 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-Primary TA for the first-year undergraduate course on Linear Circuits. Designed and held tutorial sessions with extra material and practice sets. Nominated for (and won) the Stanford Fleming Teaching Assistant Excellence award. 
-
-Heading 1
+Linear Circuits (NE140) - 2020 and 2021
 ======
 
 ![My Image](./images/test.jpg)
 
-Heading 2
+Primary TA for the first-year undergraduate course on Linear Circuits. Designed and held tutorial sessions with extra material and practice sets. Nominated for (and won) the Stanford Fleming Teaching Assistant Excellence award. 
+
+Electronic Circuits (NE344) - 2020
 ======
 
-Heading 3
+Primary TA for the third-year undergraduate course on Electronic Circuits. Designed and held tutorial sessions with extra material and practice sets. 
+
+Nanoelectronics (NE471) - 2021
 ======
+
+Primary TA for the fourth-year undergraduate course on Nanoelectronics. Held office hours to explain course material to students.
