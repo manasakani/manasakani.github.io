@@ -1,6 +1,6 @@
 ---
 title: "The University of Waterloo Nanorobotics Group (UWNRG)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/uwnrg.jpg'>"
+excerpt: "The team <br/><img src='/images/uwnrg.jpg'>"
 collection: portfolio
 ---
 
