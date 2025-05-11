@@ -1,7 +1,8 @@
 ---
 title: 'Teaching Digital Electronics at Ashesi'
 date: 2025-03-22
-permalink: /posts/2012/08/ashesi
+# permalink: /posts/2012/08/ashesi
+permalink: /posts/ashesi
 tags:
   - cool posts
   - category1

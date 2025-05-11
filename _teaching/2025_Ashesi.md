@@ -2,7 +2,7 @@
 title: "Lecturer - Digital Electronics"
 collection: teaching
 type: "Supervisions"
-permalink: /teaching/2025_student_supervisions
+permalink: /teaching/2025_Ashesi
 venue: "Ashesi University, in collaboration with ETH Zurich"
 date: 2025-01-01
 location: "Accra, Ghana"
