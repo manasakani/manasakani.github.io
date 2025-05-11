@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant positions at the University of Waterloo"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Waterloo, Department of Electrical and Computer Engineering"
-date: 2014-01-01
+# date: 2014-01-01
 location: "City, Country"
 ---
 
@@ -12,8 +12,6 @@ I held tutorial sessions for several undergraduate courses in the Electrical Eng
 
 Linear Circuits (NE140) - 2020 and 2021
 ======
-
-![My Image](./images/test.jpg)
 
 Primary TA for the first-year undergraduate course on Linear Circuits. Designed and held tutorial sessions with extra material and practice sets. Nominated for (and won) the Stanford Fleming Teaching Assistant Excellence award. 
 
