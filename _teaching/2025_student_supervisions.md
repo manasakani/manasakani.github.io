@@ -28,7 +28,7 @@ Worked with me to extend a driven kinetic Monte Carlo solver with current and he
 
 ### Zhouyang Yu (Master semester project), April 2023 - October 2023
 
-Preformed quantum transport simulations on Interband Cascade Lasers (ICLs). Co-supervised with Mahtieu Luisier. Currently: PhD student at National University of Singapore. 
+Preformed quantum transport simulations on Interband Cascade Lasers (ICLs). Co-supervised with Mathieu Luisier. Currently: PhD student at National University of Singapore. 
 
 ### Patrik Gjini (Bachelor thesis), February 2022 - May 2022
 
