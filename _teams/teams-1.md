@@ -1,7 +1,7 @@
 ---
 title: "The University of Waterloo Nanorobotics Group (UWNRG)"
 excerpt: "<br/><img src='/images/uwnrg.jpg'>"
-collection: portfolio
+collection: teams
 ---
 
 UWNRG designed micro-robotic actuation systems to compete at the annual IEEE International Conference for Robotics and Automation (ICRA) Microbotics Challenges. 
