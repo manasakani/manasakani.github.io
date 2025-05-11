@@ -1,6 +1,6 @@
 ---
 title: "SLIPS Technologies (now Adaptive Surface Technologies)"
-excerpt: "<br/><img src='/images/slips.JPG' width="60%">"
+excerpt: "<br/><img src='/images/slips.JPG' style='width: 60%; height: auto;'>"
 collection: portfolio
 ---
 

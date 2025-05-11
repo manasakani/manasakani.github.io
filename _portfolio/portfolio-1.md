@@ -1,6 +1,6 @@
 ---
 title: "The University of Waterloo Nanorobotics Group (UWNRG)"
-excerpt: "<br/><img src='/images/uwnrg.jpg' width="60%">>"
+excerpt: "<br/><img src='/images/uwnrg.jpg' style='width: 60%; height: auto;'>>"
 collection: portfolio
 ---
 
