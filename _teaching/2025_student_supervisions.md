@@ -14,7 +14,7 @@ I've supervised 4 semester projects and 3 theses, two of which were awarded the 
 
 ### Rayen Mahjoub's Master's thesis, September 2024 - March 2025
 
-Investigating the crystalline-amorphous phase changes of Germanium-Antimony-Tellurium (GST) compounds. Set up a pipeline to integrate MD simulations of GST phase change materials with our electronic structure prediction models (trained on DFT data), and used this to explore the variation in electronic wavefunction localization across different levels of crystallinity.
+Investigating the crystalline-amorphous phase changes of Germanium-Antimony-Tellurium (GST) compounds. Set up a pipeline to integrate MD simulations of GST phase change materials with our electronic structure prediction models (trained on DFT data), and used this to explore the variation in electronic wavefunction localization across different levels of crystallinity. Contributed to the creation of a dataset which we used for a paper accepted to [_ICML_](https://openreview.net/forum?id=WGejWCgrpD&referrer=%5Bthe%20profile%20of%20Manasa%20Kaniselvan%5D(%2Fprofile%3Fid%3D~Manasa_Kaniselvan1))
 
 ### Alexander Maeder's Master's thesis, September 2023 - March 2024
 
