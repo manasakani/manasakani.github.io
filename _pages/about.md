@@ -21,7 +21,7 @@ During my time at ETH so far, I've led projects across these different domains, 
 
 Going forward, I'm interested in driving methods- and application-based research in HPC/ML to unite state-of-the-art quantum mechanical materials simulations with advanced device transport approaches. This can enable predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab. It would also unlock computational investigations of effects like structural or compositional disorder, atomic motion, and other complex transport phenomena which can only be captured at scale.  
 
-I'm excited about collaborating with researchers and industry labs from different fields, having technical discussions about project ideas, and generally thinking about what we can accomplish and the impact we can have with enough combined expertise. So if you have questions or ideas for cool projects together, **let's discuss**!
+I'm always excited to collaborate with researchers and industry labs from different fields. I really enjoy having technical discussions about project ideas, learning from others' expertise, and generally thinking about what we can accomplish and the impact we can have when working together. So if you have questions or ideas for cool projects, **let's discuss**!
 
 [Note: I just started this website, it's a work in progress!]
 
