@@ -1,6 +1,6 @@
 ---
 title: "The University of Waterloo Nanorobotics Group (UWNRG)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ICRA2015.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/uwnrg.jpg'>"
 collection: portfolio
 ---
 
@@ -17,4 +17,6 @@ In my senior year I became the team's Technical Director, when I oversaw funding
 
 Photos: our team at ICRA 2015 in Seattle!
 
-<img src="/images/ICRA2015-2.jpg" alt="Our class in 2025" width="600">
+<img src="/images/ICRA2015.jpg" alt="ICRA 2015" width="600">
+
+<img src="/images/ICRA2015-2.jpg" alt="ICRA 2015" width="600">
