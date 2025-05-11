@@ -1,11 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The University of Waterloo Nanorobotics Group (UWNRG)"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ICRA2015.jpg'>"
 collection: portfolio
 ---
 
-The University of Waterloo Nanorobotics Group (UWNRG) designed micro-robotic actuation systems to compete at the annual IEEE International Conference for Robotics and Automation (ICRA) Microbotics Challenges. 
+UWNRG designed micro-robotic actuation systems to compete at the annual IEEE International Conference for Robotics and Automation (ICRA) Microbotics Challenges. 
 
-I was a junior member when I started at Waterloo, sub-team lead in my second year, and eventually became the team's Technical Director in my senior year. During my time on the team, I led the developement development of a 300 um microbot we named SAM (Solenoid Actuated Microbot), actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer. I oversaw the funding for lab expenses, equipment, cleanroom usage, and conference travel costs. Our competition Record: 3rd place (ICRA 2015, Seattle USA), 1st place (ICRA 2016, Stockholm Sweden), 2nd place (ICRA 2018, Brisbane Australia). 
+I was a junior member when I started at Waterloo, where we competed with a microbot named Emma (ElectroMagnetic Micro Actuation) at ICRA 2015 in Seattle and 2016 in Stockholm. 
+
+In my second year I became a sub-team lead, and led the development of a 300 um microbot we called Sam (Solenoid Actuated Microbot). Sam was actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer, and was featured at ICRA 2018 is Brisbane.
+
+. Other members on this team included Jeff Niu (now at OpenAI in SF), Tammy Liu (now at Asana in NYC), and Danish Baig (now a Phd student at Georgia Tech) 
+
+
+In my senior year I became the team's Technical Director, when I oversaw funding for lab expenses, equipment, cleanroom usage, and conference travel costs. Our competition Record: 3rd place (ICRA 2015, Seattle USA), 1st place (ICRA 2016, Stockholm Sweden), 2nd place (ICRA 2018, Brisbane Australia). 
 
 Photos: our team at ICRA 2015 in Seattle!
+
+<img src="/images/ICRA2015-2.jpg" alt="Our class in 2025" width="600">
