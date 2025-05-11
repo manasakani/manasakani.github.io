@@ -16,6 +16,4 @@ Photos: our team at ICRA 2015 in Seattle!
 
 ![ICRA 2025](https://manasakani.github.io/images/ICRA2015.jpg)
 
-<br/><img src='https://manasakani.github.io/images/ICRA2015.jpg'>
-
 ![ICRA 2025](https://manasakani.github.io/images/ICRA2015-2.jpg)
