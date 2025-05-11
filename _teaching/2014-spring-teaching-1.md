@@ -13,6 +13,8 @@ Primary TA for the first-year undergraduate course on Linear Circuits. Designed 
 Heading 1
 ======
 
+![My Image](./images/test.jpg)
+
 Heading 2
 ======
 
