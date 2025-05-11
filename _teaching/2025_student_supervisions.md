@@ -1,5 +1,5 @@
 ---
-title: "Supervision of student projects"
+title: "Supervision - Master student projects"
 collection: teaching
 type: "Supervisions"
 permalink: /teaching/2025_student_supervisions

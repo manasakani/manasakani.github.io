@@ -1,5 +1,5 @@
 ---
-title: "Lecturer for Digital Electronics"
+title: "Lecturer - Digital Electronics"
 collection: teaching
 type: "Supervisions"
 permalink: /teaching/2025_student_supervisions

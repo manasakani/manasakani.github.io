@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant positions at the University of Waterloo"
+title: "Teaching Assistant - Various courses at the University of Waterloo"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1

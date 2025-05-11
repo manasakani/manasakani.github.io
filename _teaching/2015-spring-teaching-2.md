@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant positions at ETH Zurich"
+title: "Teaching Assistant - Quantum Transport in Nanostructures"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2015-spring-teaching-1
