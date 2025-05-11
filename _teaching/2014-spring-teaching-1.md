@@ -10,17 +10,18 @@ location: "City, Country"
 
 I held tutorial sessions for several undergraduate courses in the Electrical Engineering/Nanotechnology Engineering programs at the University of Waterloo, where I was nominated for (and won) the Stanford Fleming Teaching Assistant Excellence Award.
 
-Linear Circuits (NE140) - 2020 and 2021
+
+Nanoelectronics (NE471) - 2021
 ======
 
-Primary TA for the first-year undergraduate course on Linear Circuits. Designed and held tutorial sessions with extra material and practice sets. Nominated for (and won) the Stanford Fleming Teaching Assistant Excellence award. 
+Primary TA for the fourth-year undergraduate course on Nanoelectronics. Held office hours to explain course material to students.
 
 Electronic Circuits (NE344) - 2020
 ======
 
 Primary TA for the third-year undergraduate course on Electronic Circuits. Designed and held tutorial sessions with extra material and practice sets. 
 
-Nanoelectronics (NE471) - 2021
+Linear Circuits (NE140) - 2020 and 2021
 ======
 
-Primary TA for the fourth-year undergraduate course on Nanoelectronics. Held office hours to explain course material to students.
+Primary TA for the first-year undergraduate course on Linear Circuits. Designed and held tutorial sessions with extra material and practice sets. Nominated for (and won) the Stanford Fleming Teaching Assistant Excellence award. 
