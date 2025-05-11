@@ -14,10 +14,6 @@ Our competition Record (for the two different challenges): 2/3rd place (ICRA 201
 
 Photos: our team at ICRA 2015 in Seattle!
 
-~~~
-<img src="/images/ICRA2015.jpg" alt="ICRA 2015" width="600">
-~~~
+![ICRA 2025](/images/ICRA2015.jpg)
 
-~~~
-<img src="/images/ICRA2015-2.jpg" alt="ICRA 2015" width="600">
-~~~
+![ICRA 2025](/images/ICRA2015-2.jpg)
