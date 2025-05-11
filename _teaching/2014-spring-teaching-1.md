@@ -5,7 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Waterloo, Department of Electrical and Computer Engineering"
 date: 2020-01-01
-location: "City, Country"
+location: "Waterloo, Canada"
 ---
 
 I held tutorial sessions for several undergraduate courses in the Electrical Engineering/Nanotechnology Engineering programs at the University of Waterloo, where I was nominated for (and won) the Stanford Fleming Teaching Assistant Excellence Award.
