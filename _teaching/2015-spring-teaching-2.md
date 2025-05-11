@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant positions at ETH Zurich"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "ETH Zurich, Department of Electrical Engineering and Information Technology"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+At ETH Zurich I serve as a TA for the course "Quantum Transport in Nanostructures", which is taught my by PhD advisor. Here I hold some of the exercise sessions (split between three of us) and help record the oral exams.

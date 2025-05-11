@@ -8,6 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
+I held tutorial sessions for several undergraduate courses in the Electrical Engineering/Nanotechnology Engineering programs at the University of Waterloo, where I was nominated for (and won) the Stanford Fleming Teaching Assistant Excellence Award.
+
 Linear Circuits (NE140) - 2020 and 2021
 ======
 
