@@ -8,12 +8,9 @@ UWNRG designed micro-robotic actuation systems to compete at the annual IEEE Int
 
 I was a junior member when I started at Waterloo, where we competed with a microbot named Emma (ElectroMagnetic Micro Actuation) at ICRA 2015 in Seattle and [2016 in Stockholm](https://uwaterloo.ca/nanotechnology-engineering/news/congrats-uws-nanorobotics-group-icra-wins). 
 
-In my second year I became a sub-team lead, and led the development of a 300 um microbot we called Sam (Solenoid Actuated Microbot). Sam was actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer, and was featured at ICRA 2018 is Brisbane.
+In my second year I became a sub-team lead, and led the development of a 300 um microbot we called Sam (Solenoid Actuated Microbot). Sam was actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer, and was featured at ICRA 2018 is Brisbane. Other members on this subteam included Jeff Niu (now at OpenAI in SF), Tammy Liu (now at Asana in NYC), and Danish Baig (now a Phd student at Georgia Tech). Later in my senior year I became the team's Technical Director, when I tracked the progress on subteams working with different microbot concepts, and oversaw funding for lab expenses, equipment, cleanroom usage, and conference travel costs. 
 
-. Other members on the Sam team included Jeff Niu (now at OpenAI in SF), Tammy Liu (now at Asana in NYC), and Danish Baig (now a Phd student at Georgia Tech) 
-
-
-In my senior year I became the team's Technical Director, when I oversaw funding for lab expenses, equipment, cleanroom usage, and conference travel costs. Our competition Record (for the two different challenges): 2/3rd place (ICRA 2015, Seattle USA), [1st/2nd place (ICRA 2016, Stockholm Sweden)](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2016/www.icra2016.org/conference/challenges/index.html), 2nd place (ICRA 2018, Brisbane Australia). 
+Our competition Record (for the two different challenges): 2/3rd place (ICRA 2015, Seattle USA), [1st/2nd place (ICRA 2016, Stockholm Sweden)](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2016/www.icra2016.org/conference/challenges/index.html), 2nd place (ICRA 2018, Brisbane Australia). 
 
 Photos: our team at ICRA 2015 in Seattle!
 
