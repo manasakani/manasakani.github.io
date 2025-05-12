@@ -13,13 +13,13 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 *  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn structure-property mappings of the underlying semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
-*  **High performance scientific computing (HPC)** - accelerating custom, domain-specific simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
+*  **High performance scientific computing** - accelerating custom, domain-specific simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
-During my time at ETH so far, I've led projects in each of these fields, with results published in domain-specific venues such as **ACS Nano**, **’SC (SuperComputing)**, **ICML**, and **Nature Materials**. I've also supervised three Master's thesis students - two of whom were awarded the ETH Medals for their theses - who directly contributed to published research. 
+During my time at ETH so far, I've led projects in each of these fields, with results published in domain-specific venues such as **ACS Nano**, **’SC (SuperComputing)**, **ICML**, and **Nature Materials**. I've also supervised three Master's thesis students - two of whom were awarded the ETH Medals for their theses - who directly contributed to published research. In 2021, I won an [NSERC PhD Fellowship](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) to take with me to any international university, and this contributed towards funding my early research.
 
 <!-- Along with my projects at ETH, I've done PhD research internships at the **Samsung Semiconductor** Device Lab and **Meta's Fundamental AI Research (FAIR) - Chemistry** team (ongoing) in the areas of semiconductor simulation development and ML foundational models to learn _ab initio_ struture-property mappings of materials. My early research was partially funded by a National Science and Engineering Research Council of Canada (NSERC) PhD Fellowship, which can be held at any university internationally.  -->
 
-Along with my projects at ETH, I've done PhD research internships in the areas of semiconductor simulation development (at the **Samsung Semiconductor** Device Lab, in San Jose CA) and ML foundational models to learn _ab initio_ struture-property mappings of materials (at **Meta's Fundamental AI Research (FAIR) - Chemistry** team, San Francisco CA, ongoing). In 2021, I won a National Science and Engineering Research Council of Canada (NSERC) PhD Fellowship which partially funded my early PhD research.
+Along with my projects at ETH, I've done PhD research internships in the areas of semiconductor simulation development (at the **Samsung Semiconductor** Device Lab, in San Jose, CA) and ML foundational models for materials (at **Meta's Fundamental AI Research (FAIR) - Chemistry** team, San Francisco, CA - ongoing). It's a lot of fun to work on state-of-the art research in teams of PhDs with industry resources at hand.
 
 <!-- My early research was partially funded by a National Science and Engineering Research Council of Canada (NSERC) PhD Fellowship, which can be held at any university internationally.  -->
 
