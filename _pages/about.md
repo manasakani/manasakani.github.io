@@ -25,7 +25,7 @@ Over the past decade of undergraduate co-ops/internships, research affiliations,
 
 I'm always excited to collaborate with researchers and industry labs from different fields. I really enjoy having technical discussions about project ideas, learning from others' expertise, and generally thinking about what we can accomplish and the impact we can have when working together. So if you have questions or ideas for cool projects, **let's discuss**!
 
-[Note: I just started this website, it's a work in progress! The goal is to have a CV in website form.]
+[Note: Website still under construction! Happy to take tips or advice!]
 
 <!-- to bring what's possible at the material-level up the  -->
 
