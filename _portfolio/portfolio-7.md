@@ -5,5 +5,5 @@ collection: portfolio
 date: 2023-01-01
 ---
 
-In the summer of 2023 I interned with the Device and Process Lab at Samsung Semiconductor, where they develop custom codes for semiconductor device and process simulations. I did an implementation within one of these codes, supervised by Dr. Byounghak Lee, and got to see how they iterate between simulations development and applications to support the development of their internal semiconductor technology. 
+In the summer of 2023 I interned with the Device and Process Lab at Samsung Semiconductor, where they develop custom codes for semiconductor device and process simulations, supervised by Dr. Byounghak Lee. I did an implementation within one of these codes to take advantage of symmetries, and presented it to the applications team in South Korea. More generally, I got to see how they iterate between simulations development and applications to support the development of future semiconductor technology. 
 
