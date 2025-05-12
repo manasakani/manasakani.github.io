@@ -1,5 +1,5 @@
 ---
-title: "The Computational Nanoelectronic Group, Zurich, Switzerland: 2021+"
+title: "Computational Nanoelectronics Group, Zurich, Switzerland: 2021+"
 excerpt: "<br/><img src='/images/compnano.jpg' style='width: 60%; height: auto;'>"
 collection: portfolio
 date: 2025-01-01
