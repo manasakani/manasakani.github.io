@@ -33,7 +33,7 @@ Over the past decade of co-ops/internships, research affiliations, and teaching 
 
 I'm always excited to collaborate with talented people from different fields. I really enjoy having technical discussions about project ideas, learning from others' expertise, and generally thinking about what we can accomplish together and the concrete impact it can have. So if you just want to chat or have ideas for cool projects, **let's discuss**!
 
-[Note: Website still under construction! Happy to take tips or advice!]
+<!-- [Note: Website still under construction! Happy to take tips or advice!] -->
 
 <!-- to bring what's possible at the material-level up the  -->
 
