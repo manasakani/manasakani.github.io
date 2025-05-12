@@ -1,5 +1,5 @@
 ---
-title: "Samsung Semiconductor Inc, San Jose CA, USA"
+title: "Samsung Semiconductor Inc, San Jose CA, USA: 2023"
 excerpt: "<br/><img src='/images/samsung.jpg' style='width: 60%; height: auto;'>"
 collection: portfolio
 ---

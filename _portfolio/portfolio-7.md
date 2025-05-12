@@ -1,5 +1,5 @@
 ---
-title: "SLIPS Technologies (now Adaptive Surface Technologies), Cambridge MA, USA"
+title: "SLIPS Technologies (now Adaptive Surface Technologies), Cambridge MA, USA: 2017-2018"
 excerpt: "<br/><img src='/images/slips.JPG' style='width: 60%; height: auto;'>"
 collection: portfolio
 ---
