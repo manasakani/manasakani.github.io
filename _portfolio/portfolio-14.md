@@ -1,6 +1,6 @@
 ---
 title: "National Institute of Materials Science, Tsukuba, Japan: 2015"
-excerpt: "<br/><img src='/images/nims.jpg' style='width: 60%; height: auto;'>"
+excerpt: "<br/><img src='/images/nims.jpeg' style='width: 60%; height: auto;'>"
 collection: portfolio
 ---
 
