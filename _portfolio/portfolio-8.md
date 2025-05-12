@@ -9,7 +9,7 @@ UWNRG designed micro-robotic actuation systems to compete at the annual IEEE Int
 
 I was a junior member when I started at Waterloo, where we competed with a microbot named Emma (ElectroMagnetic Micro Actuation) at ICRA 2015 in Seattle and [2016 in Stockholm](https://uwaterloo.ca/nanotechnology-engineering/news/congrats-uws-nanorobotics-group-icra-wins). 
 
-In my second year I became a sub-team lead, and led the development of a 300 um microbot we called Sam (Solenoid Actuated Microbot). Sam was actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer, and was featured at ICRA 2018 is Brisbane. Other members on this subteam included Jeff Niu (now at OpenAI in SF), Tammy Liu (now at Asana in NYC), and Danish Baig (now a PhD student at GeorgiaTech). 
+In my third year I became a sub-team lead, and led the development of a 300 um microbot we called Sam (Solenoid Actuated Microbot). Sam was actuated by external magnetic fields to complete pathfinding tasks and move small triangles around a silicon wafer, and was featured at ICRA 2018 is Brisbane. Other members on this subteam included Jeff Niu (now at OpenAI in SF), Tammy Liu (now at Asana in NYC), and Danish Baig (now a PhD student at GeorgiaTech). 
 
 Later in my senior year I became the team's Technical Director, when I tracked the progress on subteams working with different microbot concepts, and oversaw funding for lab expenses, equipment, cleanroom usage, and conference travel costs. 
 
