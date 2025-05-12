@@ -13,7 +13,7 @@ Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nan
 
 *  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn structure-property mappings of the underlying semiconductor materials at scales otherwise unreachable by Density Functional Theory (DFT)
 
-*  **High performance scientific computing (HPC)** - optimizing custom simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
+*  **High performance scientific computing (HPC)** - optimizing custom, domain-specific simulations codes and machine learning models on GPUs and supercomputers to tackle problem scales of experimental relevance
 
 During my time at ETH so far, I've led projects in each of these fields, with results published in domain-specific venues such as **ACS Nano**, **’SC (SuperComputing)**, **ICML**, and **Nature Materials**. I've also supervised three Master's thesis students - two of whom were awarded the ETH Medals for their theses - who directly contributed to published research. 
 
