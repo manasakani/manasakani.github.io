@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Zurich, Switzerland"
 ---
 
-At ETH, PhD students can independently propose research projects and recruit masters students to work on them. These come in the form of Bachelor Thesis projects (4 months part-time), Master Semester projects (4 months part-time), and Master Thesis (6 months full-time). These projects are part of undergraduate/graduate curriculum. 
+At ETH, PhD students can independently propose research projects and recruit masters students to work on them. These come in the form of Bachelor Thesis projects (4 months part-time), Master Semester projects (4 months part-time), and Master Thesis (6 months full-time). These projects are part of the ETH undergraduate/graduate curriculum. 
 
 I've supervised 4 semester projects and 3 theses, two of which were awarded the ETH medals.
 
