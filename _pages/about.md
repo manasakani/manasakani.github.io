@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research interests lie at at the intersection of:
 
-*  ***Ab initio* and atomistic semiconductor device modeling** - writing custom simulation codes to capture the operating physics of emerging semiconductor devices, and working with experimental collaborators to iterate between simulated and measured trends
+*  ***Ab initio* and atomistic semiconductor material/device modeling** - writing custom simulation codes to capture the operating physics of emerging semiconductor devices, and working with experimental collaborators to iterate between simulated and measured trends
 
 *  **Geometric deep learning for materials modeling** - adapting symmetry-preserving Graph Neural Networks (GNN) to learn structure-property mappings of the underlying semiconductor materials at scales otherwise unreachable by Density Functional Theory
 
