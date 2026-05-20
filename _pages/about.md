@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). My research lies at at the intersection of:
+Hi! I'm a PhD Candidate in the [Computational Nanoelectronics group](https://nano-tcad.ee.ethz.ch/) at ETH Zurich, advised by [Prof. Mathieu Luisier](https://ee.ethz.ch/the-department/faculty/professors/person-detail.ODA5MjM=.TGlzdC80MTEsMTA1ODA0MjU5.html). In July 2027, I start as Tenure Track Assistant Professor at MIT, in the departments of Materials Science and Engineering (DMSE) and Electrical Engineering and Computer Science (EECS), through a Schwarzman College of Computing shared position.
+
+My research lies at at the intersection of:
 
 *  ***Ab initio* and atomistic semiconductor material/device modeling** - writing custom simulation codes to capture the operating physics of emerging semiconductor devices, and working with experimental collaborators to iterate between simulated and measured trends
 
