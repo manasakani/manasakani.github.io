@@ -33,7 +33,7 @@ Over the co-ops/internships and research affiliations held during my undergradua
 
 <!-- Going forward, I'm interested in driving methods- and application-based research in HPC/ML to unite state-of-the-art quantum mechanical materials simulations with advanced device transport approaches. This can enable predictive, atomically-resolved simulations of devices large enough to be fabricated and measured in the lab. It would also unlock computational investigations of effects like structural or compositional disorder, atomic motion, and other complex transport phenomena which can only be captured at scale.   -->
 
-I prioritize technical rigor, clarity of communication, and downstream impact beyond metrics. If you're a prospective PhD student interested in working with me, mention my name in your application to MIT's DMSE or EECS departments. I'm currently not planning to supervise more student projects at ETH, but I can always make exceptions for exceptional people.
+I prioritize technical rigor, clarity of communication, and downstream impact beyond metrics. If you're a prospective PhD student interested in working with me: mention my name in your application to MIT's DMSE or EECS departments. If you're a master student at ETH: I'm currently not planning to supervise more student projects, but I will always make exceptions for exceptional people.
 
 In general, I'm always excited to collaborate with talented people. I really enjoy having technical discussions about project ideas, learning from others' expertise, and generally thinking about what we can accomplish together and the concrete impact it can have. So **let's discuss**!
 
